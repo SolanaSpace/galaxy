@@ -4,7 +4,7 @@ Solana Space: Innovating Planetary Ownership Through $SSPACE Token and NFT Integ
 
 Abstract
 
-Solana Space introduces a groundbreaking concept in the decentralized finance and Web3 ecosystem, where the ownership of the $SSPACE token enables users to create, own, and trade unique digital planets. Each new token holder automatically generates a planet on the platform’s dApp, which is simultaneously minted as a non-fungible token (NFT) and airdropped to the holder. This white paper outlines the technology, functionality, and vision behind Solana Space, emphasizing its commitment to community engagement, automated NFT generation, and dynamic platform interactivity.
+An infinite space where each new holder generates a unique planet + gets minted and airdropped to the holder (only holdings over 0.1% get airdropped). Each new token holder automatically generates a planet on the platform’s dApp, which is simultaneously minted as a non-fungible token (NFT) and airdropped to the holder. This white paper outlines the technology, functionality, and vision behind Solana Space, emphasizing its commitment to community engagement, automated NFT generation, and dynamic platform interactivity.
 
 
 
