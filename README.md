@@ -1,6 +1,6 @@
 ![banner_-_2024-11-24T213102 724](https://github.com/user-attachments/assets/b3930505-4d4a-44f9-b782-f7f4ffea768a)
 
-Solana Space: Innovating Planetary Ownership Through $SSPACE Token and NFT Integration
+Solana Space: Innovating Planetary Ownership Through $SOLSPACE Token and NFT Integration
 
 Abstract
 
@@ -10,7 +10,7 @@ An infinite space where each new holder generates a unique planet + gets minted 
 
 1) Introduction
 
-The emergence of blockchain technology has unlocked unprecedented possibilities in digital asset ownership and community-driven ecosystems. Solana Space leverages these possibilities by creating a vibrant digital universe where every $SSPACE token holder contributes to an ever-expanding galaxy. This initiative combines decentralized tokenomics, NFT minting, and real-time dApp updates to provide a seamless, engaging experience for participants.
+The emergence of blockchain technology has unlocked unprecedented possibilities in digital asset ownership and community-driven ecosystems. Solana Space leverages these possibilities by creating a vibrant digital universe where every $SOLSPACE token holder contributes to an ever-expanding galaxy. This initiative combines decentralized tokenomics, NFT minting, and real-time dApp updates to provide a seamless, engaging experience for participants.
 
 Vision
 
@@ -20,11 +20,11 @@ Solana Space envisions a decentralized galaxy where token holders are creators a
 
 2.1 Automated Planet Creation
 
-Every time a user acquires $SSPACE tokens, the platform automatically generates a unique planet through an algorithm that combines parameters such as size, terrain, atmosphere, and name. This ensures no two planets are alike, fostering a sense of individuality and exclusivity.
+Every time a user acquires $SOLSPACE tokens, the platform automatically generates a unique planet through an algorithm that combines parameters such as size, terrain, atmosphere, and name. This ensures no two planets are alike, fostering a sense of individuality and exclusivity.
 
 2.2 NFT Minting and Airdrop
 
-The newly created planet is minted as an NFT on the Solana blockchain, ensuring verifiable ownership and scarcity. The NFT is airdropped to the wallet address holding the $SSPACE tokens, enabling seamless integration into the user’s portfolio without additional transactions or fees.
+The newly created planet is minted as an NFT on the Solana blockchain, ensuring verifiable ownership and scarcity. The NFT is airdropped to the wallet address holding the $SOLSPACE tokens, enabling seamless integration into the user’s portfolio without additional transactions or fees.
 
 2.3 Real-Time Platform Updates
 
